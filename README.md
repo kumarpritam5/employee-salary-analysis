@@ -82,9 +82,7 @@ http://localhost:3000
 * `npm run build` → Create production build
 * `npm test` → Run tests
 ---
-## 📸 Screenshots (Add yours)
-> Add screenshots here to make your project stand out
----
+
 ## 🌍 Use Cases
 * Learning data analysis concepts
 * Practicing SQL queries
